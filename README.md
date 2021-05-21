@@ -1,4 +1,4 @@
-# CS Term Project
+# CSC 317 Term Project
 
 ## Purpose
 
@@ -12,6 +12,8 @@ Please follow the instructions below and fill in the information requested when 
 |:-------------:|:-------------:|
 | Student Name  | Aditya Mohan  |
 | Student ID    | 921065909     |
+| Student Email    | amohan3@mail.sfsu.edu     |
+
 
 
 
