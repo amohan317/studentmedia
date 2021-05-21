@@ -24,3 +24,7 @@ Please follow the instructions below and fill in the information requested when 
 ## Run Instructions
 1. steps here
 2. steps here 
+
+## Extra Credit
+1. User can update their profile information
+ 
