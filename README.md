@@ -20,12 +20,11 @@ Please follow the instructions below and fill in the information requested when 
 # Build/Run Instructions
 
 ## Build Instructions
-1. steps here
-2. steps here
+1. npm install
+
 
 ## Run Instructions
-1. steps here
-2. steps here 
+1. Use node app.js
 
 ## Extra Credit
 1. User can update their profile information
