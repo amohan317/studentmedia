@@ -21,10 +21,13 @@ Please follow the instructions below and fill in the information requested when 
 
 ## Build Instructions
 1. npm install
+2. create db using default root 
+3. create a user after privileges are granted
 
 
 ## Run Instructions
 1. Use node app.js
+2. Access url: http://localhost:3000/
 
 ## Extra Credit
 1. User can update their profile information
